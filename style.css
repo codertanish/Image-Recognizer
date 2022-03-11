@@ -1,0 +1,24 @@
+ body {
+    background-image: linear-gradient(to bottom, #ff0000, #f84700, #ef6500, #e77c00, #df8f00, #df9c00, #ddaa00, #dbb70b, #dfc507, #e2d406, #e3e30b, #e3f215);
+    text-align: center;
+    font-family: Comic Sans MS;
+ }
+
+ .heading {
+     width: 80%;
+     font-size: 20px;
+     letter-spacing: 2px;
+ }
+
+ .name_of_objects {
+     font-size: 20px;
+     background: -webkit-linear-gradient(90deg, rgba(75,180,58,1) 0%, rgba(14,224,17,1) 8%, rgba(48,175,73,1) 18%, rgba(44,197,56,1) 24%, rgba(1,255,0,1) 32%, rgba(46,222,46,1) 35%, rgba(41,221,37,1) 37%, rgba(15,245,42,1) 40%, rgba(58,238,88,1) 41%, rgba(33,236,66,1) 43%, rgba(13,231,67,1) 45%, rgba(31,246,102,1) 47%, rgba(29,253,58,1) 50%, rgba(16,225,19,1) 56%, rgba(57,253,38,1) 61%, rgba(14,204,43,1) 68%, rgba(33,178,48,1) 73%, rgba(21,204,25,1) 80%, rgba(30,214,25,1) 84%, rgba(34,187,16,1) 90%, rgba(110,252,69,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#camera {
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
